@@ -1,4 +1,4 @@
-# 先輩の不確定性恋愛論_Sample
+# Sample
 サンプル画像集  
   
 ## Name:N/A
