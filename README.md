@@ -10,14 +10,14 @@
 ### 2. アップロード先を選択
 画像をアップロードしたいファイルを開いて、下の画像のマークに従いアップロード作業を開始。
 
-<img src="先輩の不確定性恋愛論/Sample/HowtoUpload/IMG_8142.jpeg" width="400">
+<img src="先輩の不確定性恋愛論/Sample/HowtoUpload/IMG_8142.jpeg" height="400">
 
 ### 3. アップロード写真を選択  
 (2)の操作完了後、下の画像の画面が表示されるため、マークに従いスマホの写真及びファイル一覧を表示させ、任意の画像を選択。  
 
-<img src="先輩の不確定性恋愛論/Sample/HowtoUpload/IMG_8143.jpeg" width="400">
+<img src="先輩の不確定性恋愛論/Sample/HowtoUpload/IMG_8143.jpeg" height="400">
 
 ### 4. アップロード完了  
 画像を選択後、下にスクロールし、下の画像でマークされたボタンをタップし操作を完了させる。
 
-<img src="先輩の不確定性恋愛論/Sample/HowtoUpload/IMG_8144.jpeg" width="400">
+<img src="先輩の不確定性恋愛論/Sample/HowtoUpload/IMG_8144.jpeg" height="400">
