@@ -10,7 +10,7 @@
 ### 2. アップロード先を選択
 画像をアップロードしたいファイルを開いて、下の画像のマークに従いアップロード作業を開始。
 
-<img src="先輩の不確定性恋愛論/Sample/HowtoUpload/IMG_8141.jpeg" width="400">
+<img src="先輩の不確定性恋愛論/Sample/HowtoUpload/IMG_8142.jpeg" width="400">
 <img scr="先輩の不確定性恋愛論/Sample/HowtoUpload/IMG_8142.jpeg" width="400">
 
 ### 3. アップロード写真を選択  
